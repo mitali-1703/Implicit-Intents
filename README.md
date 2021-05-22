@@ -10,4 +10,4 @@ Preview of the app:-
 
 <img src="https://user-images.githubusercontent.com/66427936/119085572-9fa4d900-ba21-11eb-9ff2-f28a4bca9575.jpeg" width="180" height="380">
 
-Download the [APK]() to have a run at it :)
+Download the [APK](https://github.com/mitali-1703/Implicit-Intents/releases/download/v1/implicit.apk) to have a run at it :)
